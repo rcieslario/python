@@ -1,0 +1,3 @@
+[submodule "simple-coffe-machine"]
+	path = simple-coffe-machine
+	url = https://github.com/rcieslario/simple-coffe-machine
